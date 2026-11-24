@@ -1,5 +1,5 @@
 ## Ex. No: 7 – Configure Initial Router Settings
-# Date: ___________
+# Date: 24-11-2026
 ________________________________________
 # Objective
 To perform basic router configuration tasks in Cisco Packet Tracer including:<br>
@@ -80,10 +80,21 @@ ________________________________________
 ________________________________________
 # Output (Attach Screenshots)
 •	Console connection to router<br>
+<img width="1917" height="1012" alt="image" src="https://github.com/user-attachments/assets/26c63c3d-6a95-4c5d-b62b-822c08ded5ab" />
+
 •	Running configuration before and after<br>
+<img width="1917" height="1012" alt="image" src="https://github.com/user-attachments/assets/01c5f05c-31ef-462e-9c17-18919b0ce8a1" />
+<img width="1916" height="1022" alt="image" src="https://github.com/user-attachments/assets/a674f743-f171-4ea9-9a9d-b44e7f577b73" />
+
 •	MOTD banner display<br>
+<img width="1905" height="1023" alt="image" src="https://github.com/user-attachments/assets/3bcbe415-004b-4cb2-86ee-ad0ba5bfd483" />
+
 •	Password prompts<br>
+<img width="1906" height="1012" alt="image" src="https://github.com/user-attachments/assets/e079fe64-643d-454c-916c-6c2cdc5d8f7c" />
+
 •	Saved configuration in NVRAM and flash<br>
+<img width="1900" height="1023" alt="image" src="https://github.com/user-attachments/assets/cfe1df02-9974-4836-8be0-8fbafa2d6a4e" />
+
 ________________________________________
 # Result
 The router was successfully configured with hostname, banner, encrypted passwords, and secure console access. The configuration was verified and saved to NVRAM and flash, ensuring persistence across reboots.
